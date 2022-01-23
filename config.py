@@ -1,1 +1,0 @@
-db_password = 'BootCamp!23'
